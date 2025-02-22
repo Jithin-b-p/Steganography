@@ -1,9 +1,9 @@
-Steganography
+#Steganography
 
 
-Requirement
+##Requirement
 
-=> Python3
-=>OpenCV
+- Python3
+- OpenCV
 
 `pip install opencv-python`
