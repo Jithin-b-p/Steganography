@@ -1,7 +1,7 @@
-#Steganography
+# Steganography
 
 
-##Requirement
+## Requirement
 
 - Python3
 - OpenCV
